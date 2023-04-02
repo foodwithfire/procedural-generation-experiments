@@ -1,3 +1,8 @@
+
+# Hey I made this code on my phone so that's why
+# the size of the screen is 700x1400 :p
+
+
 import pygame, random, time
 
 screensize = (700, 1400)
