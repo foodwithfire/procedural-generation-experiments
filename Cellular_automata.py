@@ -1,4 +1,4 @@
-import pygame, random, time, sys
+import pygame, random, sys
 
 screensize = (700, 1400)
 screen = pygame.display.set_mode((screensize[0], screensize[1]))
