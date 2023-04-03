@@ -1,4 +1,4 @@
-import pygame, random, time
+import pygame, random, time, sys
 
 screensize = (700, 1400)
 screen = pygame.display.set_mode((screensize[0], screensize[1]))
@@ -89,7 +89,6 @@ for i in range(iterations):
         new_cells.append(x)
         new_cells.append(y)
         new_cells.append(t)
-        new_cells
         idx += 3
     
     idx = 0
